@@ -39,6 +39,8 @@ I am an Electronics and Communications Engineering student at Misr University fo
 **Modern Web Applications**
 *   Engineered and deployed anonymous web-sharing platforms and personalized interactive web apps.
 *   Utilized React, Firebase, and Tailwind CSS for seamless user experiences, handling database configurations and cloud deployment via Vercel.
+*   A WebGL-powered hardware visualization tool exploring the internal architecture, pinouts, and specs of the ESP32 development board in a fully 3D environment. 
+    Web preview(https://esp32-viewer-taupe.vercel.app/)
 
 ---
 
