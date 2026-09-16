@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Youssef
+# 👋 Hey there, I'm Youssef
 
 > **Electronics and Communications Engineering | Embedded Systems | Full-Stack Developer**
 
@@ -36,7 +36,7 @@ I am an Electronics and Communications Engineering student at Misr University fo
 *   Developed a custom local AI assistant integrated directly with system control features.
 *   Configured backend server endpoints, SQLite database logging, system telemetry, and remote PC action execution.
 
-**Modern Web Applications (`our-space` & `Naar`)**
+**Modern Web Applications**
 *   Engineered and deployed anonymous web-sharing platforms and personalized interactive web apps.
 *   Utilized React, Firebase, and Tailwind CSS for seamless user experiences, handling database configurations and cloud deployment via Vercel.
 
@@ -44,4 +44,4 @@ I am an Electronics and Communications Engineering student at Misr University fo
 
 ### 📫 Let's Connect
 *   **Institution:** Misr University for Science and Technology (MUST) - Class of 2031
-*   **Interests:** Hardware Prototyping, Custom Linux Ricing, Anime (Jujutsu Kaisen), PC Gaming
+*   **Interests:** Hardware Prototyping, Custom Linux Ricing, PC Gaming
