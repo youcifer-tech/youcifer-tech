@@ -10,9 +10,9 @@ I am an Electronics and Communications Engineering student at Misr University fo
 ### 🛠️ Technical Stack
 
 **Embedded Systems & Hardware**
-*   **Microcontrollers:** ESP32, Arduino Uno
+*   **Microcontrollers:** ESP32, Arduino Uno, atmega32
 *   **Hardware/Sensors:** MPU6500, Flex Sensors, Servo Motors
-*   **Design Tools:** EasyEDA, Schematic Design
+*   **Design Tools:** fusion360,autocad, Schematic Design
 
 **Full-Stack Web Development**
 *   **Frontend:** React, Vite, Tailwind CSS
