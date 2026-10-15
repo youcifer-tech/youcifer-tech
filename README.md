@@ -9,20 +9,20 @@ I am an Electronics and Communications Engineering student at Misr University fo
 
 ### 🛠️ Technical Stack
 
+**Systems, Linux & Networking**
+*   **OS & Environments:** Arch Linux(I user Arch btw), Ubuntu, Hyprland, KDE Plasma, GNOME
+*   **Networking:** Nginx Web Hosting, SSH Remote Management, VPN Protocols (VLESS/VMess)
+*   **Security:** CTF Challenges, Network Security
+
 **Embedded Systems & Hardware**
-*   **Microcontrollers:** ESP32, Arduino Uno, atmega32
-*   **Hardware/Sensors:** MPU6500, Flex Sensors, Servo Motors
+*   **Microcontrollers:** ESP32, Arduino Uno, atmega32, raspberry pi
+*   **Hardware/Sensors:** MPU6500, Flex Sensors, Servo Motors, gas and humid sensors
 *   **Design Tools:** fusion360,autocad, Schematic Design
 
 **Full-Stack Web Development**
 *   **Frontend:** React, Vite, Tailwind CSS
 *   **Backend:** Node.js, Express
 *   **Database & Cloud:** Firebase, Supabase, Vercel, SQLite
-
-**Systems, Linux & Networking**
-*   **OS & Environments:** Arch Linux, Ubuntu, Hyprland, KDE Plasma, GNOME
-*   **Networking:** Nginx Web Hosting, SSH Remote Management, VPN Protocols (VLESS/VMess)
-*   **Security:** CTF Challenges, Network Security
 
 ---
 
